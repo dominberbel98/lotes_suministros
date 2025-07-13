@@ -48,7 +48,7 @@ dominberbel98
 
 ---
 
-## Code Snippet
+## Code
 
 ```python
 import pandas as pd
