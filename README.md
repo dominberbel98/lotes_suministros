@@ -44,7 +44,7 @@ The core logic of the notebook includes:
 
 ## Author
 
-[Your Name or GitHub Username]
+dominberbel98
 
 ---
 
